@@ -1,9 +1,3 @@
-// Ionic Starter App
-
-// angular.module is a global place for creating, registering and retrieving Angular modules
-// 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
-// the 2nd parameter is an array of 'requires'
-// 'starter.controllers' is found in controllers.js
 angular.module('starter', ['ionic', 'starter.controllers'])
 
 .run(function($ionicPlatform) {
@@ -29,50 +23,36 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       templateUrl: "templates/menu.html",
       controller: 'AppCtrl'
     })
-  
-    .state('options', {
-      url: '/start',
-      templateUrl: 'templates/start.html',
-      controller: 'StartController'
-    })
 
-    .state('app.search', {
-      url: "/search",
+    .state('app.events', {
+      url: "/events",
       views: {
         'menuContent' :{
-          templateUrl: "templates/search.html"
+          templateUrl: "templates/events.html",
+          controller: 'EventsController'
         }
       }
     })
 
-    .state('app.browse', {
-      url: "/browse",
+    .state('app.bio', {
+      url: '/bio/:id',
       views: {
         'menuContent' :{
-          templateUrl: "templates/browse.html"
+          templateUrl: "templates/bio.html",
+          controller: 'BioController'
         }
       }
     })
-    .state('app.playlists', {
+    .state('app.single', {
       url: "/event/:id",
       views: {
         'menuContent' :{
-          templateUrl: "templates/playlists.html",
-          controller: 'PlaylistsCtrl'
-        }
-      }
-    })
-
-    .state('app.single', {
-      url: "/playlists/:playlistId",
-      views: {
-        'menuContent' :{
-          templateUrl: "templates/playlist.html",
-          controller: 'PlaylistCtrl'
+          templateUrl: "templates/event.html",
+          controller: "EventController"
         }
       }
     });
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/start');
+  $urlRouterProvider.otherwise('/app/events');
 });
 

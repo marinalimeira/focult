@@ -1,1 +1,13 @@
 /* Empty. Add your own CSS if you like */
+
+.wrapping-list .item-content, .wrapping-list .item {
+    overflow: initial;
+    white-space: initial;
+}
+
+.img-round {
+    width: 200px;
+    border-radius: 100%;
+    height: 200px;
+    padding-top: 12px;
+}

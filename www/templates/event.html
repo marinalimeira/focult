@@ -1,0 +1,18 @@
+<ion-view title="Evento">
+  <ion-content class="has-header">
+    <h2 class="padding text-center">{{item.eventId == 1 ? 'FoCult' : 'Outro Evento'}}</h2>
+    <div class="text-right padding">
+        Hoje - {{item.startTime}}-{{item.endTime}} <small>({{item.availability}})</small>
+    </div>
+      
+    <h3 class="padding-horizontal">{{item.title}}</h3>
+    <h4 class="padding-horizontal">
+        <span ng-if="!item.bio">{{item.speaker}}</span>
+        <a ng-if="item.bio" href="#/app/bio/{{item.id}}">{{item.speaker}}</a>
+    </h4>
+      
+    <p class="padding" style="text-align: justify">
+        {{item.description}}
+    </p>
+  </ion-content>
+</ion-view>

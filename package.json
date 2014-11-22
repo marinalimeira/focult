@@ -1,7 +1,7 @@
 {
-  "name": "focult",
+  "name": "testeproj",
   "version": "1.0.0",
-  "description": "focult: An Ionic project",
+  "description": "testeproj: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^0.7.1",

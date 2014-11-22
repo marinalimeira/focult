@@ -1,5 +1,11 @@
 angular.module('starter.controllers', [])
 
+.controller('StartController', function($scope) {
+    $scope.menus = [
+        {id: 1, name: 'Focult'},
+        {id: 2, name: 'Flijupin'}
+    ];
+})
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
   // Form data for the login modal
   $scope.loginData = {};

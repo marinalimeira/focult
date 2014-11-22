@@ -1,10 +1,24 @@
-<ion-view title="Playlists">
+<ion-view title="Programação">
   <ion-nav-buttons side="left">
     <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
   </ion-nav-buttons>
   <ion-content class="has-header">
     <ion-list>
-      <ion-item ng-repeat="playlist in playlists" href="#/app/playlists/{{playlist.id}}">
+      <div class="item item-divider">
+        Dia 1
+      </div>
+      <ion-item ng-repeat="playlist in playlists">
+        <i class="icon ion-ios7-star-outline"></i>
+        {{playlist.title}}
+      </ion-item>
+    </ion-list>
+      
+      <ion-list>
+      <div class="item item-divider">
+        Dia 2
+      </div>
+      <ion-item ng-repeat="playlist in playlists">
+        <i class="icon ion-ios7-star-outline"></i>
         {{playlist.title}}
       </ion-item>
     </ion-list>

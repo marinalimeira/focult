@@ -1,0 +1,11 @@
+<ion-nav-bar></ion-nav-bar>
+<ion-view title="EventosApp">
+    <ion-content>
+        <ion-list>
+            <ion-item ng-repeat="menu in menus" class="item-icon-right" href="#/app/event/{{menu.id}}">
+                {{menu.name}}
+                <i class="icon ion-ios7-arrow-right"></i>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

@@ -2,7 +2,7 @@
   <ion-content class="has-header">
       
     <div class="text-center">
-        <img alt="" ng-src="{{item.picture}}" class="img-round"/>
+        <img alt="" ng-src="{{item.picture ? item.picture : 'img/sem-photo.gif'}}" class="img-round"/>
     </div>
       
     <h2 class="text-center">{{item.speaker}}</h2>

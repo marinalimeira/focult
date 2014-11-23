@@ -6,7 +6,7 @@
     <ion-list>
       <ion-item ng-repeat="item in items" ng-class="{'current-item': classActive(item)}" class="wrapping-list" href="#/app/event/{{item.id}}">
         <h3>{{item.title}}</h3>
-        <p>{{item | since}} {{item.startTime}} - {{item.endTime}} / {{item.speaker}}</p>
+        <p>{{item | since}} {{item.startTime}} - {{item.endTime}} <span ng-if="item.place">/</span> {{item.place}} / {{item.speaker}}</p>
       </ion-item>
     </ion-list>
   </ion-content>

@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.testeproj395848" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>testeproj</name>
+<widget id="com.hotaviano.culteventos" 
+        version="0.0.1" 
+        xmlns="http://www.w3.org/ns/widgets" 
+        xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>CultEventos</name>
   <description>
-        An Ionic Framework and Cordova project.
+        An Projects' Marina and Hotaviano
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="melo.hotaviano@gmail.com" href="http://hotaviano.com/">
+      Marina and Hotaviano Development Team
     </author>
   <content src="index.html"/>
   <access origin="*"/>

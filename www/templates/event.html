@@ -2,7 +2,7 @@
   <ion-content class="has-header">
     <h2 class="padding text-center">{{item.eventId == 1 ? 'Focult' : 'Flijupin'}}</h2>
     <div class="padding-horizontal">
-        {{item | since}} - {{item.startTime}} - {{item.endTime}} <small>({{item.availability}})</small>
+        {{item | since}} - {{item.startTime}} - {{item.endTime}} <span ng-if="item.place">/</span> <b>{{item.place}}</b> <small>({{item.availability}})</small>
     </div>
       
     <h3 class="padding-horizontal">{{item.title}}</h3>

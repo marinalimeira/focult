@@ -38,6 +38,7 @@
                             return v1.startTimeMillis - v2.startTimeMillis;
                         });
                         
+                        cache.$resolved = true;
                         deferred.resolve(cache);
                     });
                 }

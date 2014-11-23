@@ -4,6 +4,11 @@
   </ion-nav-buttons>
   <ion-content class="has-header">
     <ion-list>
+      <ion-item ng-if="items.$resolved && !items.length">
+        <h3>Atividades Encerradas</h3>
+        <p>Agradecemos a partifipação de todos e até o próximo!</p>
+      </ion-item>
+        
       <ion-item ng-repeat="item in items" ng-class="{'current-item': classActive(item)}" class="wrapping-list" href="#/app/event/{{item.id}}">
         <h3>{{item.title}}</h3>
         <p>{{item | since}} {{item.startTime}} - {{item.endTime}} <span ng-if="item.place">/</span> {{item.place}} / {{item.speaker}}</p>

@@ -12,6 +12,9 @@
     </author>
   <content src="index.html"/>
   <access origin="*"/>
+    
+  <preference name="SplashScreen" value="screen" />
+  <preference name="SplashScreenDelay" value="3000" />
   <preference name="webviewbounce" value="false"/>
   <preference name="UIWebViewBounce" value="false"/>
   <preference name="DisallowOverscroll" value="true"/>
@@ -19,4 +22,20 @@
   <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
+    
+ <platform name="android">
+    <icon src="res/icon/drawable-ldpi/appicon.png" density="ldpi" />
+     <icon src="res/icon/drawable-mdpi/appicon.png" density="mdpi" />
+     <icon src="res/icon/drawable-hdpi/appicon.png" density="hdpi" />
+     <icon src="res/icon/drawable-xhdpi/appicon.png" density="xhdpi" />
+     <icon src="res/icon/drawable-xxhdpi/appicon.png" density="xxhdpi" />
+ </platform>    
+    
+ <splash platform="android"  qualifier="port-ldpi" src="res/screen/android/res-long-port-ldpi/default.png" />
+ <splash platform="android"  qualifier="port-mdpi" src="res/screen/android/res-long-port-mdpi/default.png" />
+ <splash platform="android"  qualifier="port-hdpi" src="res/screen/android/res-long-port-hdpi/default.png" />
+ <splash platform="android"  qualifier="port-xhdpi" src="res/screen/android/res-long-port-xhdpi/default.png" />
+ <splash platform="android"  qualifier="port-xxhdpi" src="res/screen/android/res-long-port-xxhdpi/default.png" />
+ <splash platform="android"  qualifier="port-xxxhdpi" src="res/screen/android/res-long-port-xxxhdpi/default.png" />
+
 </widget>

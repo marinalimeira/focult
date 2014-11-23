@@ -9,8 +9,7 @@
 	"description": null,
 	"speaker": "Grêmio Estudantil",
 	"bio": null,
-	"picture": null,
-	"availability":"Disponível para todos os participantes"
+	"availability":"disponível para todos os participantes"
 },
 
 {
@@ -24,22 +23,22 @@
 	"description": null,
 	"speaker": "Ênio Lins",
 	"bio": null,
-	"availability":"Disponível para todos os participantes"
+	"availability":"disponível para todos os participantes"
 },
 
 {
 	"eventId": 2,
 	"id": 3,
-    "day": 27,
+	"day": 27,
 	"startTime":"10h30",
 	"endTime":"11h20",
 	"place": "Auditório",
-	"title":"Sessão de autógrafos com com o autor do livro Quem, eu?",
+	"title":"Sessão de autógrafos com  o autor do livro \"Quem, eu?\"",
 	"description": "A história real que emocionou o Brasil e vai fazer o leitor rir e chorar em cada página, mas nunca mais se esquecer dela.",
 	"speaker": "Fernando Aguzolli",
 	"bio": "Ao ver a avó que o criou enfrentar o triste dia a dia de um portador de Alzheimer, Fernando Aguzzoli decidiu largar tudo que tinha o emprego, a carreira, os estudos para tentar amenizar o sofrimento com amor e muitas risadas. Convivendo com a divertida, bonachona e, claro, sempre esquecida vovó Nilva, Fernando, um jovem aspirante a filósofo com um talento epistêmico para a comunicação, aprenderá uma lição de vida que doença nenhuma poderá apagar.",
 	"picture": "img/fernando.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -49,12 +48,11 @@
 	"startTime": "11h20",
 	"endTime": "12h00",
 	"place": "Auditório",
-	"title": "Dramatização \"O Alienista\"/Orquestra de Berimbau",
+	"title": "Dramatização do livro \"O Alienista\" com a Orquestra de Berimbau",
 	"description": null,
 	"speaker": "Rosânia Almeida",
 	"bio": null,
-	"picture": null,
-	"availability":"Disponível para todos os participantes"
+	"availability":"disponível para todos os participantes"
 },
 
 {
@@ -68,8 +66,7 @@
 	"description": null,
 	"speaker": "Bruno Uchoa e Cícero Julião e James Washington",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 
 {
@@ -79,12 +76,11 @@
 	"startTime": "13h30",
 	"endTime": "16h30",
 	"place": "Sala 57",
-	"title": "Anúncios publicitários: significações e persuasão- Parte 1",
+	"title": "Anúncios Publicitários: Significações e Persuasão",
 	"description": null,
 	"speaker": "Fran Cavalcante",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 {
 	"eventId": 1,
@@ -93,12 +89,11 @@
 	"startTime": "13h30",
 	"endTime": "16h30",
 	"place": "Sala 58",
-	"title":"Paisagismo Contemporâneo – Arte e arquitetura na paisagem urbana.",
+	"title":"Paisagismo Contemporâneo – Arte e Arquitetura na Paisagem Urbana.",
 	"description": null,
 	"speaker": "Claudio Bergamini",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 
 {
@@ -108,12 +103,11 @@
 	"startTime": "13h30",
 	"endTime": "16h30",
 	"place": "Sala 59",
-	"title": "Oficina: Coesão e coerência na música popular brasileira - Parte 1",
+	"title": "Oficina: Coesão e Coerência na Música Popular Brasileira",
 	"description": null,
 	"speaker": "Rosania Almeida",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 
 {
@@ -123,12 +117,11 @@
 	"startTime": "13h30",
 	"endTime": "16h30",
 	"place": "Sala 67",
-	"title": "Oficina de charge",
+	"title": "Oficina de Charge",
 	"description": null,
 	"speaker": "Enio Lins",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 
 {
@@ -142,8 +135,7 @@
 	"description": null,
 	"speaker": "Maria Jose",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 
 {
@@ -153,12 +145,11 @@
 	"startTime": "13h30",
 	"endTime": "16h30",
 	"place": "Sala 69",
-	"title": "Minicurso: Filhos da Revolução – uma análise da obra de Renato Russo",
+	"title": "Minicurso: Filhos da Revolução – Uma Análise da Obra de Renato Russo",
 	"description": null,
 	"speaker": "Mario Zaymison",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 {
 	"eventId": 1,
@@ -167,12 +158,11 @@
 	"startTime": "13h30",
 	"endTime": "16h30",
 	"place": "Sala 72",
-	"title": "Minicurso: Estratégia de leitura e interpretação de textos",
+	"title": "Minicurso: Estratégia de Leitura e Interpretação de Textos",
 	"description": null,
 	"speaker": "Edmara Drigo e Cristiane Agra",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 {
 	"eventId": 1,
@@ -185,8 +175,7 @@
 	"description": null,
 	"speaker": "Roberto Calabria",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 {
 	"eventId": 1,
@@ -195,12 +184,11 @@
 	"startTime": "13h30",
 	"endTime": "16h30",
 	"place": "Sala 101",
-	"title": "Epidemias, mentalidade e transformações na idade média. Parte 1",
+	"title": "Epidemias, Mentalidade e Transformações na Idade Média",
 	"description": null,
 	"speaker": "Roberto Idalino e Quitéria Belo",
 	"bio": null,
-	"picture": null,
-	"availability": "Vagas limitadas"
+	"availability": "vagas limitadas"
 },
 {
 	"eventId": 2,
@@ -210,11 +198,11 @@
 	"endTime": "16h30",
 	"place": "Auditório",
 	"title": "A Arma Escarlate e outras fantasias",
-	"description": null,
+	"description": "Sessão de autógrafos com a autora.",
 	"speaker": "Renata Ventura",
 	"bio": "Jornalista e escritora brasileira de ficção, autora do livro de fantasia A Arma Escarlate, em que utiliza a fantasia para falar da realidade brasileira, abordando temas sérios como desigualdade social, preconceito, abandono, drogas e corrupção. Por ter uma vontade muito aguda de melhorar o país, Renata busca sempre analisar o Brasil em seus escritos, misturando realidade e fantasia para incentivar seus leitores a pensarem no Brasil e tentarem melhorá-lo. Muitos autores influenciaram sua obra, desde Monteiro Lobato e Pedro Bandeira até Anne Rice, J. K. Rowling e J. R. R. Tolkien. O livro A Comissão Chapeleira é o segundo livro da série.",
 	"picture": "img/renata-ventura.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 {
 	"eventId": 1,
@@ -227,8 +215,7 @@
 	"description": null,
 	"speaker": "Vanusia Amorim",
 	"bio": null,
-	"picture": null,
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -238,12 +225,11 @@
 	"startTime": "19h00",
 	"endTime": "21h00",
 	"place": "Auditório",
-	"title": "Palestra: A importância do dimensionamento do canteiro de obras",
+	"title": "Palestra: \"A importância do dimensionamento do canteiro de obras\"",
 	"description": null,
 	"speaker": "Ricardo Calheiros",
 	"bio": null,
-	"picture": null,
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -253,11 +239,10 @@
 	"startTime": "19h00",
 	"endTime": "21h00",
 	"place": null,
-	"title": "Palestra: Mergulho Submarino",
+	"title": "Palestra: \"Mergulho Submarino\"",
 	"description": null,
 	"speaker": "Roberto Calabria",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -272,8 +257,7 @@
 	"description": null,
 	"speaker": "Marcelo Salgueiro e Rosania Almeida",
 	"bio": null,
-	"picture": null,
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -287,8 +271,7 @@
 	"description": null,
 	"speaker": "José Ronaldo",
 	"bio": null,
-	"picture": null,
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -302,7 +285,6 @@
 	"description": null,
 	"speaker": "Jorge Schutze",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -313,11 +295,10 @@
 	"startTime": "9h00",
 	"endTime": "11h00",
 	"place": "Laboratório 51",
-	"title": "Práticas de microcospia laboratoriais",
+	"title": "Práticas de Microcospia Laboratoriais",
 	"description": null,
 	"speaker": "Maria José",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -328,11 +309,10 @@
 	"startTime": "8h00",
 	"endTime": "11h00",
 	"place": "Sala 29/30",
-	"title": "SEMINÁRIO TEMÁTICO - desafios  contemporâneos",
+	"title": "Seminário Temático - desafios  contemporâneos",
 	"description": null,
 	"speaker": "Elis Botton e Arthur Breno",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -347,8 +327,7 @@
 	"description": null,
 	"speaker": "Grêmio Estudantil",
 	"bio": null,
-	"picture": null,
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -362,7 +341,6 @@
 	"description": null,
 	"speaker": "Jorge Schutze",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -377,7 +355,6 @@
 	"description": null,
 	"speaker": "Andrea Carla",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -388,11 +365,10 @@
 	"startTime": "13h00",
 	"endTime": "16h00",
 	"place": "Sala 65",
-	"title": "Juventude, música e identidade",
+	"title": "Juventude, Música e Identidade",
 	"description": null,
 	"speaker": "Alysson Rocha",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -403,11 +379,10 @@
 	"startTime": "13h00",
 	"endTime": "16h00",
 	"place": "Sala 67",
-	"title": "A cultura de massa na Educação Estética",
+	"title": "A Cultura de Massa na Educação Estética",
 	"description": null,
 	"speaker": "Vinicius Vina",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -418,11 +393,10 @@
 	"startTime": "13h00",
 	"endTime": "16h00",
 	"place": "Sala 59",
-	"title": "Oficina: Coesão e coerência na música popular brasileira – Parte 2",
+	"title": "Oficina: Coesão e Coerência na Música Popular Brasileira",
 	"description": null,
 	"speaker": "Rosania Almeida",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -437,7 +411,6 @@
 	"description": null,
 	"speaker": "Camila Maria",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -448,11 +421,10 @@
 	"startTime": "13h00",
 	"endTime": "16h00",
 	"place": "Sala 69",
-	"title": "Palestra: Dimensões poéticas nas canções de Chico Buarque",
+	"title": "Palestra: \"Dimensões poéticas nas canções de Chico Buarque\"",
 	"description": null,
 	"speaker": "Luciano José",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -467,7 +439,6 @@
 	"description": null,
 	"speaker": "Mayk Andreele",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -482,7 +453,6 @@
 	"description": null,
 	"speaker": "Edson Granja",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -493,11 +463,10 @@
 	"startTime": "13h00",
 	"endTime": "16h00",
 	"place": "Sala 58",
-	"title": "Palestra \"Cultura do descarte a política nacional dos resíduos sólidos\"",
+	"title": "Palestra: \"Cultura do descarte a política nacional dos resíduos sólidos\"",
 	"description": null,
 	"speaker": "Elis Botton, Arthur Breno e Claudionor Oliveira",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -512,7 +481,6 @@
 	"description": null,
 	"speaker": "Roberto Fernandes",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -523,11 +491,10 @@
 	"startTime": "13h00",
 	"endTime": "16h00",
 	"place": "Sala 57",
-	"title": "Anúncios publicitários: significações e persuasão- Parte 1",
+	"title": "Anúncios Publicitários: Significações e Persuasão",
 	"description": null,
 	"speaker": "Fran Cavalcante",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -538,11 +505,10 @@
 	"startTime": "13h00",
 	"endTime": "16h00",
 	"place": "Sala 101",
-	"title": "Epidemias, mentalidade e transformações na idade média. Parte 1",
+	"title": "Epidemias, Mentalidade e Transformações na Idade Média",
 	"description": null,
 	"speaker": "Roberto Idalino e Quitéria Belo",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -557,7 +523,6 @@
 	"description": null,
 	"speaker": "James Washington",
 	"bio": null,
-	"picture": null,
 	"availability": "vagas limitadas"
 },
 
@@ -573,8 +538,7 @@
 	"description": null,
 	"speaker": "Ana Quitéria",
 	"bio": null,
-	"picture": null,
-	"availability":"Disponível para todos os participantes"
+	"availability":"disponível para todos os participantes"
 },
 
 {
@@ -584,12 +548,11 @@
 	"startTime": "16h30",
 	"endTime": "17h30",
 	"place": "Auditório",
-	"title": "Autoria Literária: produções dos alunos do IFAL/PIn",
+	"title": "Autoria Literária: Produções dos Alunos do IFAL/PIn",
 	"description": null,
 	"speaker": "Vanusia Amorim",
 	"bio": null,
-	"picture": null,
-	"availability":"Disponível para todos os participantes"
+	"availability":"disponível para todos os participantes"
 },
 
 {
@@ -603,8 +566,7 @@
 	"description": null,
 	"speaker": "ALYSOUL",
 	"bio": null,
-	"picture": null,
-	"availability":"Disponível para todos os participantes"
+	"availability":"disponível para todos os participantes"
 },
 {
 	"eventId": 1,
@@ -613,12 +575,11 @@
 	"startTime": "19h00",
 	"endTime": "21h00",
 	"place": "Auditório",
-	"title": "Minicurso NR 32",
+	"title": "Minicurso: NR 32",
 	"description": null,
 	"speaker": "Michelly Siqueira",
 	"bio": null,
-	"picture": null,
-	"availability":"Disponível para todos os participantes"
+	"availability":"disponível para todos os participantes"
 },
 
 {
@@ -632,25 +593,9 @@
 	"description": null,
 	"speaker": "Grêmio Estudantil",
 	"bio": null,
-	"picture": null,
-	"availability":"Disponível para todos os participantes"
+	"availability":"disponível para todos os participantes"
 },
  
-{
-	"eventId": 2,
-	"id": 44,
-	"day": 29,
-	"startTime": "09h00",
-	"endTime": "10h30",
-	"place": null,
-	"title": "Lançamentos/sessão de autográfos dos livros das aventuras de Edgar Blum",
-	"description": null,
-	"speaker": "Davi Daniel e Pamela Mira",
-	"bio": null,
-	"picture": null,
-	"availability":"Disponível para todos os participantes"
-},
-
 {
 	"eventId": 2,
 	"id": 45,
@@ -658,12 +603,11 @@
 	"startTime": "12h00",
 	"endTime": "13h30",
 	"place": null,
-	"title": "Lançamento/sessão de autográfos dos livros \"embrulho misterioso de Nina\" e \"Ei, você viu Luizinho?\"",
 	"description": null,
 	"speaker": "Sara Albuquerque",
 	"bio": "Nasceu no dia 07 de novembro de 1990 em Maceió/AL. Filha de Remilda Bezerra de Albuquerque e Márcio Jorge Barbosa de França. Escritora. Advogada. Cronista no sítio virtual www.saralidade.com, desde 2008. Sócia colaboradora da APALCA (Academia Palmeirense de Letras), desde 2011. Assistente de Administração da UFAL (Universidade Federal de Alagoas), desde 2012. Secretária do Mestrado em Direito na Faculdade de Direito de Alagoas, UFAL. Ensino Fundamental no Colégio Santíssima Trindade (2004), Médio no Centro Federal de Educação Tecnológica de Alagoas – CEFET/AL (2007). Graduação em Direito na Universidade Federal de Alagoas – UFAL (2012). Pós-Graduada em Direito do Trabalho e Processo do Trabalho no Complexo Educacional Damásio de Jesus (2014).",
 	"picture": "img/sara-regina.jpg",
-	"availability":"Disponível para todos os participantes"
+	"availability":"disponível para todos os participantes"
 },
 
 {
@@ -673,12 +617,11 @@
 	"startTime": "09h00",
 	"endTime": "10h30",
 	"place": null,
-	"title": "Conto de histórias para crianças: As Aventuras de Egdar Blum",
+	"title": "Conto de histórias para crianças: \"As Aventuras de Edgar Blum\"",
 	"description": null,
 	"speaker": "Davi Daniel e Pamela Mira",
 	"bio": null,
-	"picture": null,
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -688,12 +631,12 @@
 	"startTime": "10h30",
 	"endTime": "12h00",
 	"place": null,
-	"title": "Conto de histórias: O segredo do Rio Mundaú",
+	"title": "Conto de histórias: \"O segredo do Rio Mundaú\"",
 	"description": "Ambientada na Serra da Barriga, em União dos Palmares, a obra mergulha na riqueza cultural de Alagoas ao narrar a luta de Zumbi, o personagem principal, para libertar o povo negro da escravidão. A história se mistura ao folclore brasileiro ao mostrar a amizade entre o herói e a sereia Iara.",
 	"speaker": "Sara Albuquerque",
 	"bio": "Nasceu no dia 07 de novembro de 1990 em Maceió/AL. Filha de Remilda Bezerra de Albuquerque e Márcio Jorge Barbosa de França. Escritora. Advogada. Cronista no sítio virtual www.saralidade.com, desde 2008. Sócia colaboradora da APALCA (Academia Palmeirense de Letras), desde 2011. Assistente de Administração da UFAL (Universidade Federal de Alagoas), desde 2012. Secretária do Mestrado em Direito na Faculdade de Direito de Alagoas, UFAL. Ensino Fundamental no Colégio Santíssima Trindade (2004), Médio no Centro Federal de Educação Tecnológica de Alagoas – CEFET/AL (2007). Graduação em Direito na Universidade Federal de Alagoas – UFAL (2012). Pós-Graduada em Direito do Trabalho e Processo do Trabalho no Complexo Educacional Damásio de Jesus (2014).",
 	"picture": "img/sara-regina.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -703,12 +646,12 @@
 	"startTime": "09h00",
 	"endTime": "13h00",
 	"place": "Estande da Livraria Tenda Cultural",
-	"title": "Sessão de Autógrafos do livro: O amigo da onça",
+	"title": "Sessão de Autógrafos do livro: \"O Amigo da Onça\"",
 	"description": "Primeiro livro infantil do autor, O amigo da onça é uma história de aventura que trata temáticas atuais de forma adequada para crianças como preservação ambiental, violência e escravidão além de contar uma grande história de amizade e heroísmo. ",
 	"speaker": "Edson Marques Brandão",
 	"bio": "É formado em Matemática pela Universidade Estadual de Alagoas. Professor, possui três livros publicados Frontispícios do Pensamento (2003), Fagulhas e Desejos (2011) e O amigo da onça (2012). Organizou a antologia Nordeste em verso e prosa com a participação de estudantes da rede pública e privada para a V Bienal Internacional do Livro de  Alagoas. Seu livro Fagulhas e Desejos ganhou o Prêmio Interarte da Academia de Letras de Goiás em 2011.",
 	"picture": "img/edson-marques.png",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -722,8 +665,7 @@
 	"description": null,
 	"speaker": "Cosme Rogério, Elton SDL e Turunguinha.",
 	"bio": null,
-	"picture": null,
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -733,12 +675,11 @@
 	"startTime": "15h00",
 	"endTime": "17h00",
 	"place": null,
-	"title": "Lançamento do livro Sintoma do Mundo",
 	"description": "Sintoma do Mundo é o segundo livro do poeta e escritor Elton SDL. Seguindo os passos de sua primeira publicação solo, Mentalmorfose, lançada em 2012, Elton traz ao público mais uma obra do gênero poesia editada pela Editora Penalux. O livro reúne versos diversos, tanto na forma quanto no conteúdo, embora uma fina linha de melancolia, indagação e reflexão existencial esteja presente na maioria dos poemas. Poemas que, inclusive, debruçam-se sobre o próprio fazer poético, o ofício do poeta, sobre a própria poesia – questões sempre presentes nas obras do autor. Mas não é só isso. Amor, dor, pensar, pesar e sentir: temas recorrentes não apenas nas páginas de Sintoma do Mundo, mas no próprio homem, sintoma maior de uma humanidade dilacerante e dilacerada, edificante e edificada – que atinge, fere, eleva e, no mais das vezes, provoca a própria poesia – que se não é remédio último para uma cura em potencial, é ao menos veneno com o qual o poeta se arma e contra-ataca.",
 	"speaker": "Elton SDL",
 	"bio": "Natural de Palmeira dos Índios-AL, Elton SDL é estudante do curso de Psicologia (UFAL) e escritor. Autor do livro de poemas Mentalmorfose (2012, Multifoco). A obra esteve presente na mídia, em vários eventos literários, artísticos, premiações e foi lida por nomes como Arnaldo Antunes e Antônio Torres. Participou de diversas antologias de contos, crônica e poesia, incluindo a Antologia Poética Internacional da Cogito Editora, bem como de concursos literários, sendo os principais: I Concurso Semana da Poesia Graciliano Ramos e IV Concurso Prosa e Verso, promovido pela APALCA – Academia Palmeirense de Letras, Ciência e Artes – nos quais obteve primeiro e terceiro lugar, respectivamente, na categoria Verso.",
 	"picture": "img/elton-sdl.png",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 {
 	"eventId": 2,
@@ -752,7 +693,7 @@
 	"speaker": "Isvânia Marques",
 	"bio": "É professora e autora de vários livros. É Presidente da Academia Palmeirense de Letras. Seu último livro \"Para ti, Graciliano\" foi lançado no Festival Literário de Parati, RJ. A autora possui um intenso trabalho dedicado à literatura alagoana e à valorização da leitura. É presença marcante no Festival Literário de Marechal Deodoro e na Bienal Internacional do Livro de Alagoas.",
 	"picture": "img/isvania-marques.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -767,7 +708,7 @@
 	"speaker": "Izabelle Valladares",
 	"bio": "Autora de diversos livros e presidente da Literarte – Associação Internacional de Escritores e Artistas e da Delegação Brasileira da ALAV – Academia de Letras y Artes de Valparaíso (Chile). Dentre as obras de sua autoria, o documentário \"Os maiores crimes de todos os tempos\" ganhou o prêmio Interarte de melhor documentário criminal de 2011 da Academia de Letras de Goiás. Em 2012, participou do Salão do Livro de Paris. Em 2014, participou da mostra \"Saberes Criativos\" Feira de Exposição Intercultural de Literatura, Arte e Educação realizada pela ABRASA em Viena (Áustria). Neta do jornalista Antônio Andrade (Prêmio Esso de 1967), Izabelle também organiza antologias nacionais e internacionais. Reside em Cabo Frio, onde está sediada a Literarte.",
 	"picture": "img/izabelle.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -777,12 +718,12 @@
 	"startTime": "16h00",
 	"endTime": "19h00",
 	"place": "Estande da Livraria Tenda Cultural",
-	"title": "Sessão de Autógrafos: Mamãe, o que é preconceito?",
+	"title": "Sessão de Autógrafos: \"Mamãe, o que é preconceito?\"",
 	"description": null,
 	"speaker": "Izabelle Valladares",
 	"bio": "Autora de diversos livros e presidente da Literarte – Associação Internacional de Escritores e Artistas e da Delegação Brasileira da ALAV – Academia de Letras y Artes de Valparaíso (Chile). Dentre as obras de sua autoria, o documentário \"Os maiores crimes de todos os tempos\" ganhou o prêmio Interarte de melhor documentário criminal de 2011 da Academia de Letras de Goiás. Em 2012, participou do Salão do Livro de Paris. Em 2014, participou da mostra \"Saberes Criativos\" Feira de Exposição Intercultural de Literatura, Arte e Educação realizada pela ABRASA em Viena (Áustria). Neta do jornalista Antônio Andrade (Prêmio Esso de 1967), Izabelle também organiza antologias nacionais e internacionais. Reside em Cabo Frio, onde está sediada a Literarte.",
 	"picture": "img/izabelle.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -797,7 +738,7 @@
 	"speaker": "Renata Ventura",
 	"bio": "Jornalista e escritora brasileira de ficção, autora do livro de fantasia A Arma Escarlate, em que utiliza a fantasia para falar da realidade brasileira, abordando temas sérios como desigualdade social, preconceito, abandono, drogas e corrupção. Por ter uma vontade muito aguda de melhorar o país, Renata busca sempre analisar o Brasil em seus escritos, misturando realidade e fantasia para incentivar seus leitores a pensarem no Brasil e tentarem melhorá-lo. Muitos autores influenciaram sua obra, desde Monteiro Lobato e Pedro Bandeira até Anne Rice, J. K. Rowling e J. R. R. Tolkien. O livro A Comissão Chapeleira é o segundo livro da série.",
 	"picture": "img/renata-ventura.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -812,7 +753,7 @@
 	"speaker": "Isvânia Marques",
 	"bio": "É professora e autora de vários livros. É Presidente da Academia Palmeirense de Letras. Seu último livro \"Para ti, Graciliano\" foi lançado no Festival Literário de Parati, RJ. A autora possui um intenso trabalho dedicado à literatura alagoana e à valorização da leitura. É presença marcante no Festival Literário de Marechal Deodoro e na Bienal Internacional do Livro de Alagoas.",
 	"picture": "img/isvania-marques.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
  
 {
@@ -822,12 +763,11 @@
 	"startTime": "10h30",
 	"endTime": "18h00",
 	"place": null,
-	"title": "Conto de histórias para crianças: As Aventuras de Egdar Blum",
+	"title": "Conto de histórias para crianças: As Aventuras de Edgar Blum",
 	"description": null,
 	"speaker": "Davi Daniel e Pamela Mira",
 	"bio": null,
-	"picture": null,
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -837,12 +777,11 @@
 	"startTime": "10h00",
 	"endTime": "11h30",
 	"place": null,
-	"title": "Lançamento do livro: A Menina que Amava os Livros e as Flores",
+	"title": "Lançamento do livro: \"A Menina que Amava os Livros e as Flores\"",
 	"description": "O livro conta e ilustra a história de uma menina apaixonada pela vida e pela família que viajava pelo imaginário dos livros e se divertia em meio à natureza. Pretende resgatar os valores éticos e morais como: o respeito, a justiça, o companheirismo, a confiança e, sobretudo, o amor pela família e pela vida. Busca despertar no leitor o estímulo, a necessidade e o prazer pela leitura através de um olhar filosófico e otimista da vida. Retrata o desabrochar das flores em meio às inovações da primavera no coração e no imaginário de uma menina que tenta ensinar ao próximo a aproveitar os momentos intensos e simples do dia a dia.",
 	"speaker": "Adriana Justino",
 	"bio": "Alagoana de Maribondo, Escritora, Pedagoga, Psicopedagoga e Bacharel em Direito. É Sócia Correspondente da Academia Palmeirense de Letras.",
-	"picture": null,
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -852,12 +791,12 @@
 	"startTime": "19h00",
 	"endTime": "22h00",
 	"place": null,
-	"title": "Lançamento do livro: A Comissão Chapeleira",
+	"title": "Lançamento do livro: \"A Comissão Chapeleira\"",
 	"description": "Atormentado pelos crimes que cometeu em seu primeiro ano como bruxo, tudo que Hugo mais queria naquele início de 1998 era paz de espírito, para que pudesse ao menos tentar ser uma pessoa melhor. Porém, sua paz é interrompida quando uma comissão truculenta do governo invade o Rio de Janeiro, ameaçando uniformizar todo o comportamento, calar toda a dissensão, e Hugo não é o único com segredos a esconder. Para combater um inimigo inteligente e sedutor como o temido Alto Comissário, no entanto, será necessário muito mais do que apenas magia. Será preciso caráter. Mas o medo paralisa, o poder fascina, e entre lutar por seus amigos ou lutar por si próprio, Hugo terá de enfrentar uma batalha muito maior do que imaginava. Uma batalha com sua própria consciência.",
 	"speaker": "Renata Ventura",
 	"bio": "Jornalista e escritora brasileira de ficção, autora do livro de fantasia A Arma Escarlate, em que utiliza a fantasia para falar da realidade brasileira, abordando temas sérios como desigualdade social, preconceito, abandono, drogas e corrupção. Por ter uma vontade muito aguda de melhorar o país, Renata busca sempre analisar o Brasil em seus escritos, misturando realidade e fantasia para incentivar seus leitores a pensarem no Brasil e tentarem melhorá-lo. Muitos autores influenciaram sua obra, desde Monteiro Lobato e Pedro Bandeira até Anne Rice, J. K. Rowling e J. R. R. Tolkien. O livro A Comissão Chapeleira é o segundo livro da série.",
 	"picture": "img/renata-ventura.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -867,12 +806,12 @@
 	"startTime": "15h00",
 	"endTime": "19h00",
 	"place": null,
-	"title": "Lançamento do livro: Um gesto de Amor",
+	"title": "Lançamento do livro: \"Um gesto de Amor\"",
 	"description": "Decidida a não se apaixonar por mais ninguém, Liza vê sua promessa ameaçada ao conhecer André o professor do seu filho. Tudo começa a mudar quando seu filho cria uma forte relação de amizade com André, que tenta de todas as formas preencher o vazio paterno naquela criança. Após entender que esse homem deve fazer parte de sua vida, Liza sente que está na hora de recomeçar sua história. Esta relação é ameaçada pelo ciúme de seu melhor amigo Fernando, que luta pelo seu coração há quatro anos. Mas André está disposto a não perder essa luta. Liza procura seguir seu coração e os conselhos de sua melhor amiga, Sofia, mas percebe que não é tão fácil a escolha que deve fazer. Tentando de todas as formas não ferir o coração de ninguém, faz sua escolha trazendo consequências capazes de desmoronar tudo aquilo que desejou. Amor, amizade, perdão e destino serão testados e somente Um Gesto de Amor será capaz de resgatar tudo aquilo que Liza imaginou estar perdido. Então… o que você faria por alguém que ama?",
 	"speaker": "Tony Ferr",
 	"bio":"Tem 21 anos, é natural de Maceió-AL e cursa Química Industrial pelo Instituto Federal de Alagoas. Apaixonado pela música clássica toca violino desde os 10 anos de idade. Entrou no caminho literário após frequentar por alguns anos a biblioteca volante do BiblioSesc que vinha ao seu bairro. Decidiu escrever seu primeiro livro aos 16 anos, quando surgiu então o seu primeiro romance intitulado \"Um Gesto de Amor\". Tony Ferr vive com os pais e suas três irmãs.",
 	"picture": "img/tony-ferr.jpg",
-	"availability": "Disponível para todos os participantes"
+	"availability": "disponível para todos os participantes"
 },
 
 {
@@ -886,21 +825,6 @@
 	"description": null,
 	"speaker": "Tony Ferr e Luciene Albuquerque",
 	"bio": null,
-	"availability":"Disponível para todos os participantes"
-},
-
-{
-	"eventId": 2,
-	"id": 61,
-	"day": 27,
-	"startTime": "11h00",
-	"endTime": "12h00",
-	"place": null,
-	"title": "Conto de histórias",
-	"description": null,
-	"speaker": "Davi Daniel e Pamela Mira",
-	"bio": null,
-	"availability":"Disponível para todos os participantes"
-
+	"availability":"disponível para todos os participantes"
 }
 ]

@@ -5,6 +5,18 @@ angular.module('starter.controllers', [])
 
 .controller('EventsController', function($scope, Services) {
     
+    $scope.classActive = function(item) {
+        var now = new Date();
+        
+        if (now.getTime() >= item.startTimeMillis
+                && now.getTime() <= item.endTimeMillis) {
+            return true;
+        }
+        
+        return false;
+    };
+    
+    
   Services.getEvents().then(function(data){
     $scope.items = data;
   });
@@ -34,4 +46,27 @@ angular.module('starter.controllers', [])
             }
         });
     });
-});
+})
+
+.filter('since', function() {
+    return function(value) {
+        var now = new Date();
+        var event = new Date(value.startTimeMillis);
+        
+        if (now.getDate() === event.getDate() 
+                && now.getMonth() === event.getMonth()
+                && now.getYear() === event.getYear()) {
+            return 'Hoje';
+        } else if (now.getDate() === event.getDate() + 1 
+                && now.getMonth() === event.getMonth()
+                && now.getYear() === event.getYear()) {
+            return 'Amanhã';
+        } else if (now.getDate() === event.getDate() + 2 
+                && now.getMonth() === event.getMonth()
+                && now.getYear() === event.getYear()) {
+            return 'Depois de amanhã';
+        }
+        
+        return moment(value).fromNow();
+    };
+})

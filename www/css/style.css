@@ -11,3 +11,7 @@
     height: 200px;
     padding-top: 12px;
 }
+
+.current-item a {
+    background-color: #bfd4f9 !important;
+}

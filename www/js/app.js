@@ -1,3 +1,5 @@
+moment.lang('pt_BR');
+
 angular.module('starter', ['ionic', 'starter.controllers'])
 
 .run(function($ionicPlatform) {

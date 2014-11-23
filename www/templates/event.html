@@ -1,6 +1,6 @@
 <ion-view title="Evento">
   <ion-content class="has-header">
-    <h2 class="padding text-center">{{item.eventId == 1 ? 'Focult' : 'Flijupin'}}</h2>
+    <h2 class="padding text-center"><img alt="" ng-src="{{item.eventId == 1 ? 'img/focult-logo.png' : 'img/flijupin-logo.jpg'}}" class="imagem-descricao"/></h2>
     <div class="padding-horizontal">
         {{item | since}} - {{item.startTime}} - {{item.endTime}} <span ng-if="item.place">/</span> <b>{{item.place}}</b> <small>({{item.availability}})</small>
     </div>

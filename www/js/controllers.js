@@ -52,16 +52,22 @@ angular.module('starter.controllers', [])
     return function(value) {
         var now = new Date();
         var event = new Date(value.startTimeMillis);
+        var eventEnd = new Date(value.endTimeMillis);
+        
+        if (now.getTime() >= event.getTime() 
+              && now.getTime() <= eventEnd.getTime()) {
+            return 'Agora';
+        }
         
         if (now.getDate() === event.getDate() 
                 && now.getMonth() === event.getMonth()
                 && now.getYear() === event.getYear()) {
             return 'Hoje';
-        } else if (now.getDate() === event.getDate() + 1 
+        } else if (now.getDate() === event.getDate() - 1 
                 && now.getMonth() === event.getMonth()
                 && now.getYear() === event.getYear()) {
             return 'Amanhã';
-        } else if (now.getDate() === event.getDate() + 2 
+        } else if (now.getDate() === event.getDate() - 2 
                 && now.getMonth() === event.getMonth()
                 && now.getYear() === event.getYear()) {
             return 'Depois de amanhã';

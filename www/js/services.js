@@ -23,7 +23,6 @@
                             it.startTimeMillis = new Date(startEvent.getTime());        
                             it.endTimeMillis = new Date(startEvent.getTime());
                             
-                            console.log(it.startTimeMillis, it.day);
                             var mom = moment(it.startTimeMillis).date(it.day).hour(startHour).minute(startMin).second(0);
                             it.startTimeMillis = mom.toDate().getTime();
                             
